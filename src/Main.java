@@ -1,4 +1,4 @@
-import br.com.dio.chalenge.domain.*;
+import br.com.dio.challenges.domain.*;
 
 import java.time.LocalDate;
 

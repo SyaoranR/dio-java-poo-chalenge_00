@@ -1,4 +1,4 @@
-package br.com.dio.chalenge.domain;
+package br.com.dio.challenges.domain;
 
 public class Curso extends Conteudo{
     private int cargaHoraria;
